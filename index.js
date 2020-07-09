@@ -1,1 +1,1 @@
-console.error("Losing my mind!")
+console.error("HALP")
